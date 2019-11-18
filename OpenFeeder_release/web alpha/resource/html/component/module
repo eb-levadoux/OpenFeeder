@@ -1,0 +1,20 @@
+<div class="splendor" id="1">
+  <p class="herbOfLife">
+    <?php
+      display("mesange.txt");
+    ?>
+  </p>
+</div>
+<div class="floral">
+  <img src="resource/img/mesange.jpg" alt="mesange" class="beauty" id="2">
+</div>
+<div class="splendor" id="3">
+  <p class="herbOfLife">
+    <?php
+      display("Especes de mesanges europeennes.txt");
+    ?>
+  </p>
+</div>
+<div class="floral">
+  <img src="resource/img/Logo_UT3.jpg" alt="Logo_UT3" class="beauty" id="4">
+</div>

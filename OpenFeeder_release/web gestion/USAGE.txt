@@ -1,0 +1,23 @@
+=-=-= Usage =-=-=
+Dans le dossier resource, vous devez y integrez les ressources nécessaires à afficher (des documents .txt, des images .jpg)
+Dans configuration.txt, vous devez renseignez les elements que vous souhaitez integrer à votre site :
+ - du texte
+ - des images
+
+exemple d'usage :
+(texte) nom du fichier texte
+(image) nom du fichier de l'image
+...
+
+Vous pouvez également ajouter un raccourcie de navigation en le signalant à la fin de la ligne par "(nav)". 
+
+exemple d'usage:
+(texte) nom du fichier texte
+(image) nom du fichier de l'image (nav)
+...
+
+Puis executez proceed.py
+
+
+=-=-= ATTENTION =-=-=
+L'utilisation d'accent est prohibé.
